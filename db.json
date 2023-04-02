@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 17
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 6
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "swan",
+      "image": "https://static.smallable.com/929305-thickbox/waterball-swan.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "karate",
+      "image": "https://i.pinimg.com/originals/af/d8/8a/afd88af9ae98b4f6b1498b3de53c4535.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "antique horse",
+      "image": "https://i.pinimg.com/564x/d6/8d/9a/d68d9a6340ac641cf07060467b8dd1c8.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
